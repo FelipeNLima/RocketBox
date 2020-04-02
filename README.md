@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img alt="Semana OmniStack" src="https://user-images.githubusercontent.com/26943148/78183055-a5b2b180-743d-11ea-8ce4-8385e1c14949.png" />
+    <img alt="Semana OmniStack" src="https://user-images.githubusercontent.com/26943148/78200855-4c12ad00-7466-11ea-99bc-c06db087ecf0.png" />
     <br />
     Semana OmniStack - RocketBox
 </h1>
