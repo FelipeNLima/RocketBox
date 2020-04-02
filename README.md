@@ -1,6 +1,8 @@
 <h1 align="center">
     <img alt="Semana OmniStack" src="https://user-images.githubusercontent.com/26943148/78200855-4c12ad00-7466-11ea-99bc-c06db087ecf0.png" />
     <br />
+    <br />
+    <br />
     Semana OmniStack - RocketBox
 </h1>
 
